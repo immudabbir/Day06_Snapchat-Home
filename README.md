@@ -1,1 +1,1 @@
-# Day06_Snapchat-Home
+# Day06_Boilerplate
